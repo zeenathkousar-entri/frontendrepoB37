@@ -6,7 +6,7 @@ import './App.css'
 import Navs from './Navbar'
 import { Route,Routes } from 'react-router-dom'
 import Home from './Home'
-import Login from './login'
+import Login from './Login'
 import Cart from './Cart'
 
 function App() {
